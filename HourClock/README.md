@@ -20,3 +20,7 @@
           HCnxt2  ==  hr' = (hr % 11) + 1    
 
        Use TLC to show that HC2 is then no longer equivalent to HC.
+
+# Solutions
+
+1. correctly running tlc.
